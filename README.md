@@ -2,7 +2,7 @@
 
 - Experience [MinecraftIpBot](dsc.gg/hyfix)
 
-- Experience **Hyfix Network (Minecraft Simple Network)**
+- Experience [Hyfix Network (A Simple Minecraft Network)](dsc.gg/hyfix)
 
 - Experience [Antisq (Minecraft AntiGrief Plugin)](dsc.gg/hyfix)
 
